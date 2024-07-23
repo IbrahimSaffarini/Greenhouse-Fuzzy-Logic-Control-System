@@ -106,19 +106,15 @@ Before delving into the system design and implementation, which includes the blo
   <img src="https://drive.google.com/uc?export=view&id=1d5dnr4ePldJmpJuwOcybWv_LIdC6Yxkb" alt="Front Panel View of the Dominant Rule (38)" />
 </div>
 
-### ThingSpeak Visualizations
+### ThingSpeak Visualizations & Widgets
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1wOvaWiGU75OiN6iTvtzi0WZOwj7IkvJy" alt="ThingSpeak First Four Fields Charts" />
 </div>
 
-### ThingSpeak Visualization & Widgets
-
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1y-DJJW6xtQDKoNZaHTJXhray-SQs-WU9" alt="ThingSpeak Chart, Gauges, and Numeric Display" />
 </div>
-
-### ThingSpeak Water Spills Gauge Widget
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1v8kE6GPTDRwBk-1qT_5KJi-YNNcvBesp" alt="ThingSpeak Water Spills Gauge" />
