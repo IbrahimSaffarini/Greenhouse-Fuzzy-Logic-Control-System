@@ -116,10 +116,6 @@ Before delving into the system design and implementation, which includes the blo
   <img src="https://drive.google.com/uc?export=view&id=1y-DJJW6xtQDKoNZaHTJXhray-SQs-WU9" alt="ThingSpeak Chart, Gauges, and Numeric Display" />
 </div>
 
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1v8kE6GPTDRwBk-1qT_5KJi-YNNcvBesp" alt="ThingSpeak Water Spills Gauge" />
-</div>
-
 ### Light Intensity Numeric Display & Lamp is Off < 2000
 
 <div align="center">
