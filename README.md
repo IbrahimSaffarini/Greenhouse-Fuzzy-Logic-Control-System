@@ -186,6 +186,8 @@ Before delving into the system design and implementation, which includes the blo
 
 #### 7- Run and Monitor the System.
 
+*Note: You can access the Fuzzy System Designer by clicking on the **Tools** menu, selecting **Control and Simulation**, and then opening the fuzzy set file by selecting **File** menu and choosing **Open** option. You can adjust the fuzzy set as needed from there.*
+
 ## Contact for Support
 
 For any queries or support related to this project, feel free to contact me at ibrahimsaffarini2001@gmail.com.
