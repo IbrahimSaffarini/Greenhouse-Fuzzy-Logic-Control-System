@@ -26,7 +26,7 @@ This project is a fuzzy logic system designed to control the electric roof and w
 
 - **Fuzzy Rules:**
 
-    - Utilized ChatGPT to generate the 64 rules of fuzzy logic system.
+    - Utilized ChatGPT to generate the membership functions & the 64 rules of fuzzy logic system.
 
     - Utilized the Fuzzy System Designer to test and adjust the generated rules.
 
